@@ -1,0 +1,14 @@
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\Артур\source\repos\Project3\Project3\obj\Debug\Project3.csprojAssemblyReference.cache
+C:\Users\Артур\source\repos\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\Артур\source\repos\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\OpenTK.dll
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\OpenTK.pdb
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\OpenTK.xml
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Артур\source\repos\Project3\Project3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Артур\source\repos\Project3\Project3\obj\Debug\Project3.csproj.CopyComplete
